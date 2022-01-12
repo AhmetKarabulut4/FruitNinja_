@@ -1,0 +1,175 @@
+C:\Users\user\Desktop\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\user\Desktop\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\user\Desktop\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\user\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\user\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\user\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\PC\Desktop\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\PC\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\PC\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\PC\Desktop\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\PC\Desktop\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\PC\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\PC\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\PC\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\PC\Desktop\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\user\Desktop\Visual Studio\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+G:\Son sürüm fruit\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+G:\Son sürüm fruit\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+G:\Son sürüm fruit\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+G:\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+G:\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+G:\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+G:\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+G:\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+G:\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+G:\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+G:\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\PC\Desktop\Son sürüm fruit\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\user\Desktop\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\user\Desktop\55\Son sürüm fruitV1\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\user\Desktop\55\Son sürüm fruitV1 - Kopya\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\PC\Desktop\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form4.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\55\Son sürüm fruitV8.5\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form4.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form4.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form4.resources
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\bin\Debug\FruitNinja.pdb
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form4.resources
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form6.resources
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form6.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form6.resources
+C:\Users\PC\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form7.resources
+C:\Users\user\Desktop\Son sürüm fruitV8.55\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form7.resources
+G:\Fruit Ninja\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+G:\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+G:\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe.config
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\bin\Debug\FruitNinja.exe
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form1.resources
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form2.resources
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form3.resources
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form4.resources
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form6.resources
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Form7.resources
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.Properties.Resources.resources
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.exe
+C:\Users\user\Desktop\Visual Studio\Fruit Ninja\FruitNinja\FruitNinja\obj\Debug\FruitNinja.pdb
